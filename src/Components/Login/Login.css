@@ -1,0 +1,35 @@
+.form{
+    border: 8px solid hotpink;
+    border-radius: 900px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    padding: 5%;
+}
+.or{
+    border: 8px solid hotpink;
+    border-radius: 900px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 2%;
+    margin-bottom: 1%;
+    padding: 6px;
+}
+.or button{
+    border: 8px solid hotpink;
+    border-radius: 900px;
+    margin: 3px;
+    padding: 2%;
+}
+.form input{
+    border: 8px solid hotpink;
+    border-radius: 900px;
+    margin: 3px;
+    padding: 2%;
+}
+h4{
+    color: royalblue;
+}
+input{
+    width: 30vw;
+}
